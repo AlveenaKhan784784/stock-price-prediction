@@ -20,3 +20,7 @@ The objective of this project is to predict future stock prices based on histori
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 - **Models Used**: Linear Regression, Random Forest
+
+## Insights
+**Effectiveness of Outlier Removal**: Removing outliers helped in improving the model's performance by reducing noise and ensuring more reliable predictions.
+**Model Choice**: The Random Forest model, with its ensemble learning approach, proved to be more effective for this time series forecasting task compared to Linear Regression.
